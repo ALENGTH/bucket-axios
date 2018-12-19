@@ -1,0 +1,6 @@
+{
+    "version": "1.25.10",
+    "url": "http://www.mpg123.de/download/win64/1.25.10/mpg123-1.25.10-x86-64.zip",
+    "extract_dir": "mpg123-1.25.10-x86-64",
+    "bin": "mpg123.exe"
+}
