@@ -1,0 +1,6 @@
+{
+    "version": "10.1.1000",
+    "url": "http://cdn.chuyu.me/Dism++10.1.1000.80_a17953e8473f7f23592c97f64b25091d.zip",
+    "extract_dir": "",
+    "bin": [["Dism++x64.exe","dism++"]]
+}
