@@ -2,5 +2,5 @@
     "version": "0.9.8",
     "url": "https://github.com/cyfdecyf/cow/releases/download/0.9.8/cow-win64-0.9.8.zip",
     "extract_dir": "",
-    "bin": [["cow-hide","baidupcs"]]
+    "bin": [["cow-hide.exe","cowh"],["cow-taskbar.exe","cowt"]]
 }
