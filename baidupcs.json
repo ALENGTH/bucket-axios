@@ -1,6 +1,6 @@
 {
     "version": "v3.5.6",
     "url": "https://github.com/iikira/BaiduPCS-Go/releases/download/v3.5.6/BaiduPCS-Go-v3.5.6-windows-x64.zip",
-    "extract_dir": "baidupcs#v3.5.6#https_github.com_iikira_BaiduPCS-Go_releases_download_v3.5.6_BaiduPCS-Go-v3.5.6-windows-x64.zip",
+    "extract_dir": "",
     "bin": [["BaiduPCS-Go.exe","baidupcs"]]
 }
