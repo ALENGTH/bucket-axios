@@ -1,5 +1,6 @@
 {
     "version": "1.5",
     "url": "https://github.com/MountainColdWay/bucket-axios/releases/download/easypub1.5/easypub.zip",
+    "hash":"b8d5843bbc1927e014c26e5c9ce112ef1506753fb21688d28599bddbf1fe27de",
     "bin": [["EasyPub.exe","easypub"]]
 }
