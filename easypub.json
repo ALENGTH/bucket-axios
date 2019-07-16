@@ -1,0 +1,5 @@
+{
+    "version": "1.5",
+    "url": "https://github.com/MountainColdWay/bucket-axios/releases/download/easypub1.5/easypub.zip",
+    "bin": [["EasyPub.exe","easypub"]]
+}
